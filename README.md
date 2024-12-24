@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Jeremiah Shittu!
 
-<!--
-**JSEDigital/jsedigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- **CEO/Founder** of **JS Editing & Digital Services**  
+- A **Linguist**, **Copywriter**, and **Web Designer**  
+- Passionate about creating impactful digital experiences and helping brands grow.  
 
-Here are some ideas to get you started:
+## 🌟 What I Do  
+- **Copywriting:** Crafting compelling stories and persuasive content.  
+- **Web Design:** Designing functional, responsive websites.  
+- **Editing:** Polishing content to perfection.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Connect With Me  
+- 🌐 [Your Website](#)  
+- 📱 [LinkedIn](#)  
+- 🐦 [Twitter](#)  
+- 📧 [Email Me](#)  
+
+> _"Your vision, my execution. Let's build something great together."_  
