@@ -12,7 +12,7 @@
 
 ## 📬 Connect With Me  
 - 🌐 [**Website**](https://jsedigital.com.ng)  
-- 📘 [**Facebook**](https://www.facebook.com/JSEditingDigital)  
+- 📘 [**Facebook**](https://www.facebook.com/profile.php?id=61569047127101&mibextid=ZbWKwL)  
 - 🐦 [**X (Twitter)**](https://x.com/JSEditDigital)  
 - 📸 [**Instagram**](https://www.instagram.com/js_edigital)  
 - 📧 [**Email Me**](mailto:jeremiah@jsedigital.com.ng)  
